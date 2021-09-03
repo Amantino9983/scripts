@@ -1,0 +1,2 @@
+# scripts
+money script roblox
